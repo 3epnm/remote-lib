@@ -1,0 +1,14 @@
+{
+  "generator-dotup-typescript": {
+    "promptValues": {
+      "useGit": false,
+      "projectType": "lib"
+    }
+  },
+  "generator-dotup-npm-package": {
+    "promptValues": {
+      "userName": "Marcel Bretschneider",
+      "userEmail": "marcel.bretschneider@gmail.com"
+    }
+  }
+}
